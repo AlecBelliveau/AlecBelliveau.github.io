@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "color": {
-        "value": "#ffffff"
+        "value": "#EEEEEE"
       },
       "shape": {
         "type": "polygon",
@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "width": 1
       },
       "move": {
-        "enable": true,
+        "enable": false,
         "speed": 1,
         "direction": "none",
         "random": true,
@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "out_mode": "out",
         "bounce": false,
         "attract": {
-          "enable": true,
+          "enable": false,
           "rotateX": 600,
           "rotateY": 1200
         }
