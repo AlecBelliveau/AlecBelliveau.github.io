@@ -1,12 +1,12 @@
 # Site settings
 title: Alec Belliveau
-description:
+description: My mom thinks I'm cute
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://alecbelliveau.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Alec Belliveau
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: Recent Electrical Engineer graduate, interested in non-emitting energy generation and fascinated by computers. Fully bilingual in French and English. Previous experience working at a nuclear power plant.
 user_title: Electrical Engineer
 email: arbelliveau@live.com
 twitter_username: lorem_ipsum
