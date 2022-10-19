@@ -59,14 +59,14 @@ document.addEventListener("DOMContentLoaded", function () {
       },
       "move": {
         "enable": true,
-        "speed": 4,
+        "speed": 1,
         "direction": "none",
         "random": true,
         "straight": false,
         "out_mode": "out",
         "bounce": false,
         "attract": {
-          "enable": false,
+          "enable": true,
           "rotateX": 600,
           "rotateY": 1200
         }
