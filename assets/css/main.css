@@ -5059,9 +5059,9 @@ body {
         width: 48%
     }
 
-    /* .contents-right {
+    .contents-right {
         margin-top: -5%
-    } */
+    }
 
     .contents-right,
     .images-right {
