@@ -5060,10 +5060,17 @@ body {
     }
 
     .contents-right {
-        margin-top: -5%
+        margin-top: -5%;
+        margin-left: 0;
+        width: 48%
     }
 
-    .contents-right,
+    .contents-left {
+        margin-top: -5%;
+        margin-right: 0;
+        width: 48%
+    }
+
     .images-right {
         float: right;
         width: 48%
