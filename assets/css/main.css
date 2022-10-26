@@ -5068,6 +5068,7 @@ body {
     .contents-left {
         margin-top: -5%;
         margin-right: 0;
+        float: right;
         width: 48%
     }
 
